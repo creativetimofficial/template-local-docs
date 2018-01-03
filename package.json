@@ -1,0 +1,26 @@
+{
+  "name": "template-local-docs",
+  "version": "0.0.0",
+  "description": "Local docs html scaffolding template",
+  "repository": {
+    "url": "cristijora/template-local-docs",
+    "type": "git"
+  },
+  "author": "cristijora <joracristi@gmail.com> (github.com/cristijora)",
+  "license": "MIT",
+  "files": [
+    "sao.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "pascal-case": "^2.0.1",
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "sao": "^0.22.1"
+  }
+}
